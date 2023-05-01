@@ -3,15 +3,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
 
 #cookie-popup {
-  font-family: "Source Code Pro", monospace;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
   position: fixed;
   bottom: 0;
   left: 0;
   background-color: #333;
-  color: #fff;
+  color: whitesmoke;
   padding: 2rem;
   text-align: center;
-  font-size: 1.25rem;
+  font-size: 1.50rem;
   max-width: 100%;
   height: auto;
   z-index: 9999;
@@ -22,7 +22,7 @@
 }
 
 #cookie-popup a:hover {
-  color: lightpink;
+  color: #58a2a2;
   text-decoration: underline;
 }
 
@@ -37,6 +37,6 @@
 }
 
 #accept-cookies:hover {
-  background-color: lightpink;
+  background-color: #58a2a2;
   transition: 0.4s;
 }
