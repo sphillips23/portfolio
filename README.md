@@ -1,4 +1,4 @@
-# Portfolio Project :cloud:
+# Portfolio Project 🖥️:
 This assignment tasked us with creating a personal portfolio. The portfolio consists of information about me, relevant projects, and links to my LinkedIn, GitHub, and Resume. 
 
 
